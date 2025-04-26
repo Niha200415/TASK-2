@@ -12,4 +12,7 @@
     |
   Datastore             
   Monitoring System
+
+  1 High-Level System Diagram:
+  
      
